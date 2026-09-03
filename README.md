@@ -18,7 +18,7 @@ For more information about the Aquifer platform, data, and metadata formats, vis
 
 ## Sources
 
-The _Biblica® Open Indonesian Contemporary New Testament 2025_, also known as the _Biblica® Open Kitab Kehidupan Perjanjian Baru (New Testament)_ is copyright © 2026 by [Biblica, Inc.](https://biblica.com/). All rights reserved. 
+The _Biblica® Open Indonesian Contemporary New Testament 2025_, also known as the _Biblica® Open Kitab Kehidupan Perjanjian Baru (New Testament)_ is copyright © 2025 by [Biblica, Inc.](https://biblica.com/). All rights reserved. 
 
 This edition is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
