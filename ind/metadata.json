@@ -4,7 +4,7 @@
 "resource_type": "Bible",
 "title": "Biblica® Open Indonesian Contemporary New Testament 2025",
 "aquifer_name": "Biblica® Open Indonesian Contemporary New Testament 2025",
-"version": "1.0.2",
+"version": "1.1.0",
 "collection_title": "Biblica® Open Indonesian Contemporary New Testament 2025",
 "short_name": "BOKKPB",
 "license_info": {
@@ -9205,6 +9205,2346 @@
 "scope": {
 "REV": []
 }
+},
+"alignments/json/40-001.alignment.json": {
+"mimeType": "text/json",
+"size": 60898,
+"scope": {
+"MAT": [
+"1"
+]
+}
+},
+"alignments/json/40-002.alignment.json": {
+"mimeType": "text/json",
+"size": 75941,
+"scope": {
+"MAT": [
+"2"
+]
+}
+},
+"alignments/json/40-003.alignment.json": {
+"mimeType": "text/json",
+"size": 54048,
+"scope": {
+"MAT": [
+"3"
+]
+}
+},
+"alignments/json/40-004.alignment.json": {
+"mimeType": "text/json",
+"size": 66811,
+"scope": {
+"MAT": [
+"4"
+]
+}
+},
+"alignments/json/40-005.alignment.json": {
+"mimeType": "text/json",
+"size": 141260,
+"scope": {
+"MAT": [
+"5"
+]
+}
+},
+"alignments/json/40-006.alignment.json": {
+"mimeType": "text/json",
+"size": 100383,
+"scope": {
+"MAT": [
+"6"
+]
+}
+},
+"alignments/json/40-007.alignment.json": {
+"mimeType": "text/json",
+"size": 90442,
+"scope": {
+"MAT": [
+"7"
+]
+}
+},
+"alignments/json/40-008.alignment.json": {
+"mimeType": "text/json",
+"size": 95503,
+"scope": {
+"MAT": [
+"8"
+]
+}
+},
+"alignments/json/40-009.alignment.json": {
+"mimeType": "text/json",
+"size": 106137,
+"scope": {
+"MAT": [
+"9"
+]
+}
+},
+"alignments/json/40-010.alignment.json": {
+"mimeType": "text/json",
+"size": 114703,
+"scope": {
+"MAT": [
+"10"
+]
+}
+},
+"alignments/json/40-011.alignment.json": {
+"mimeType": "text/json",
+"size": 86919,
+"scope": {
+"MAT": [
+"11"
+]
+}
+},
+"alignments/json/40-012.alignment.json": {
+"mimeType": "text/json",
+"size": 144125,
+"scope": {
+"MAT": [
+"12"
+]
+}
+},
+"alignments/json/40-013.alignment.json": {
+"mimeType": "text/json",
+"size": 180163,
+"scope": {
+"MAT": [
+"13"
+]
+}
+},
+"alignments/json/40-014.alignment.json": {
+"mimeType": "text/json",
+"size": 91020,
+"scope": {
+"MAT": [
+"14"
+]
+}
+},
+"alignments/json/40-015.alignment.json": {
+"mimeType": "text/json",
+"size": 101372,
+"scope": {
+"MAT": [
+"15"
+]
+}
+},
+"alignments/json/40-016.alignment.json": {
+"mimeType": "text/json",
+"size": 85669,
+"scope": {
+"MAT": [
+"16"
+]
+}
+},
+"alignments/json/40-017.alignment.json": {
+"mimeType": "text/json",
+"size": 74390,
+"scope": {
+"MAT": [
+"17"
+]
+}
+},
+"alignments/json/40-018.alignment.json": {
+"mimeType": "text/json",
+"size": 100737,
+"scope": {
+"MAT": [
+"18"
+]
+}
+},
+"alignments/json/40-019.alignment.json": {
+"mimeType": "text/json",
+"size": 94217,
+"scope": {
+"MAT": [
+"19"
+]
+}
+},
+"alignments/json/40-020.alignment.json": {
+"mimeType": "text/json",
+"size": 94211,
+"scope": {
+"MAT": [
+"20"
+]
+}
+},
+"alignments/json/40-021.alignment.json": {
+"mimeType": "text/json",
+"size": 143176,
+"scope": {
+"MAT": [
+"21"
+]
+}
+},
+"alignments/json/40-022.alignment.json": {
+"mimeType": "text/json",
+"size": 118330,
+"scope": {
+"MAT": [
+"22"
+]
+}
+},
+"alignments/json/40-023.alignment.json": {
+"mimeType": "text/json",
+"size": 117427,
+"scope": {
+"MAT": [
+"23"
+]
+}
+},
+"alignments/json/40-024.alignment.json": {
+"mimeType": "text/json",
+"size": 132298,
+"scope": {
+"MAT": [
+"24"
+]
+}
+},
+"alignments/json/40-025.alignment.json": {
+"mimeType": "text/json",
+"size": 133728,
+"scope": {
+"MAT": [
+"25"
+]
+}
+},
+"alignments/json/40-026.alignment.json": {
+"mimeType": "text/json",
+"size": 196866,
+"scope": {
+"MAT": [
+"26"
+]
+}
+},
+"alignments/json/40-027.alignment.json": {
+"mimeType": "text/json",
+"size": 177278,
+"scope": {
+"MAT": [
+"27"
+]
+}
+},
+"alignments/json/40-028.alignment.json": {
+"mimeType": "text/json",
+"size": 60237,
+"scope": {
+"MAT": [
+"28"
+]
+}
+},
+"alignments/json/41-001.alignment.json": {
+"mimeType": "text/json",
+"size": 112071,
+"scope": {
+"MRK": [
+"1"
+]
+}
+},
+"alignments/json/41-002.alignment.json": {
+"mimeType": "text/json",
+"size": 90764,
+"scope": {
+"MRK": [
+"2"
+]
+}
+},
+"alignments/json/41-003.alignment.json": {
+"mimeType": "text/json",
+"size": 75777,
+"scope": {
+"MRK": [
+"3"
+]
+}
+},
+"alignments/json/41-004.alignment.json": {
+"mimeType": "text/json",
+"size": 107248,
+"scope": {
+"MRK": [
+"4"
+]
+}
+},
+"alignments/json/41-005.alignment.json": {
+"mimeType": "text/json",
+"size": 104038,
+"scope": {
+"MRK": [
+"5"
+]
+}
+},
+"alignments/json/41-006.alignment.json": {
+"mimeType": "text/json",
+"size": 168207,
+"scope": {
+"MRK": [
+"6"
+]
+}
+},
+"alignments/json/41-007.alignment.json": {
+"mimeType": "text/json",
+"size": 103063,
+"scope": {
+"MRK": [
+"7"
+]
+}
+},
+"alignments/json/41-008.alignment.json": {
+"mimeType": "text/json",
+"size": 104867,
+"scope": {
+"MRK": [
+"8"
+]
+}
+},
+"alignments/json/41-009.alignment.json": {
+"mimeType": "text/json",
+"size": 144896,
+"scope": {
+"MRK": [
+"9"
+]
+}
+},
+"alignments/json/41-010.alignment.json": {
+"mimeType": "text/json",
+"size": 141721,
+"scope": {
+"MRK": [
+"10"
+]
+}
+},
+"alignments/json/41-011.alignment.json": {
+"mimeType": "text/json",
+"size": 96366,
+"scope": {
+"MRK": [
+"11"
+]
+}
+},
+"alignments/json/41-012.alignment.json": {
+"mimeType": "text/json",
+"size": 128748,
+"scope": {
+"MRK": [
+"12"
+]
+}
+},
+"alignments/json/41-013.alignment.json": {
+"mimeType": "text/json",
+"size": 97630,
+"scope": {
+"MRK": [
+"13"
+]
+}
+},
+"alignments/json/41-014.alignment.json": {
+"mimeType": "text/json",
+"size": 204693,
+"scope": {
+"MRK": [
+"14"
+]
+}
+},
+"alignments/json/41-015.alignment.json": {
+"mimeType": "text/json",
+"size": 122110,
+"scope": {
+"MRK": [
+"15"
+]
+}
+},
+"alignments/json/41-016.alignment.json": {
+"mimeType": "text/json",
+"size": 61529,
+"scope": {
+"MRK": [
+"16"
+]
+}
+},
+"alignments/json/42-001.alignment.json": {
+"mimeType": "text/json",
+"size": 187455,
+"scope": {
+"LUK": [
+"1"
+]
+}
+},
+"alignments/json/42-002.alignment.json": {
+"mimeType": "text/json",
+"size": 131148,
+"scope": {
+"LUK": [
+"2"
+]
+}
+},
+"alignments/json/42-003.alignment.json": {
+"mimeType": "text/json",
+"size": 95135,
+"scope": {
+"LUK": [
+"3"
+]
+}
+},
+"alignments/json/42-004.alignment.json": {
+"mimeType": "text/json",
+"size": 126261,
+"scope": {
+"LUK": [
+"4"
+]
+}
+},
+"alignments/json/42-005.alignment.json": {
+"mimeType": "text/json",
+"size": 127620,
+"scope": {
+"LUK": [
+"5"
+]
+}
+},
+"alignments/json/42-006.alignment.json": {
+"mimeType": "text/json",
+"size": 150559,
+"scope": {
+"LUK": [
+"6"
+]
+}
+},
+"alignments/json/42-007.alignment.json": {
+"mimeType": "text/json",
+"size": 151295,
+"scope": {
+"LUK": [
+"7"
+]
+}
+},
+"alignments/json/42-008.alignment.json": {
+"mimeType": "text/json",
+"size": 181415,
+"scope": {
+"LUK": [
+"8"
+]
+}
+},
+"alignments/json/42-009.alignment.json": {
+"mimeType": "text/json",
+"size": 170664,
+"scope": {
+"LUK": [
+"9"
+]
+}
+},
+"alignments/json/42-010.alignment.json": {
+"mimeType": "text/json",
+"size": 130693,
+"scope": {
+"LUK": [
+"10"
+]
+}
+},
+"alignments/json/42-011.alignment.json": {
+"mimeType": "text/json",
+"size": 162303,
+"scope": {
+"LUK": [
+"11"
+]
+}
+},
+"alignments/json/42-012.alignment.json": {
+"mimeType": "text/json",
+"size": 176693,
+"scope": {
+"LUK": [
+"12"
+]
+}
+},
+"alignments/json/42-013.alignment.json": {
+"mimeType": "text/json",
+"size": 102271,
+"scope": {
+"LUK": [
+"13"
+]
+}
+},
+"alignments/json/42-014.alignment.json": {
+"mimeType": "text/json",
+"size": 98593,
+"scope": {
+"LUK": [
+"14"
+]
+}
+},
+"alignments/json/42-015.alignment.json": {
+"mimeType": "text/json",
+"size": 94649,
+"scope": {
+"LUK": [
+"15"
+]
+}
+},
+"alignments/json/42-016.alignment.json": {
+"mimeType": "text/json",
+"size": 98163,
+"scope": {
+"LUK": [
+"16"
+]
+}
+},
+"alignments/json/42-017.alignment.json": {
+"mimeType": "text/json",
+"size": 93417,
+"scope": {
+"LUK": [
+"17"
+]
+}
+},
+"alignments/json/42-018.alignment.json": {
+"mimeType": "text/json",
+"size": 109071,
+"scope": {
+"LUK": [
+"18"
+]
+}
+},
+"alignments/json/42-019.alignment.json": {
+"mimeType": "text/json",
+"size": 120999,
+"scope": {
+"LUK": [
+"19"
+]
+}
+},
+"alignments/json/42-020.alignment.json": {
+"mimeType": "text/json",
+"size": 121979,
+"scope": {
+"LUK": [
+"20"
+]
+}
+},
+"alignments/json/42-021.alignment.json": {
+"mimeType": "text/json",
+"size": 93540,
+"scope": {
+"LUK": [
+"21"
+]
+}
+},
+"alignments/json/42-022.alignment.json": {
+"mimeType": "text/json",
+"size": 169580,
+"scope": {
+"LUK": [
+"22"
+]
+}
+},
+"alignments/json/42-023.alignment.json": {
+"mimeType": "text/json",
+"size": 144634,
+"scope": {
+"LUK": [
+"23"
+]
+}
+},
+"alignments/json/42-024.alignment.json": {
+"mimeType": "text/json",
+"size": 129624,
+"scope": {
+"LUK": [
+"24"
+]
+}
+},
+"alignments/json/43-001.alignment.json": {
+"mimeType": "text/json",
+"size": 131680,
+"scope": {
+"JHN": [
+"1"
+]
+}
+},
+"alignments/json/43-002.alignment.json": {
+"mimeType": "text/json",
+"size": 57426,
+"scope": {
+"JHN": [
+"2"
+]
+}
+},
+"alignments/json/43-003.alignment.json": {
+"mimeType": "text/json",
+"size": 106044,
+"scope": {
+"JHN": [
+"3"
+]
+}
+},
+"alignments/json/43-004.alignment.json": {
+"mimeType": "text/json",
+"size": 150687,
+"scope": {
+"JHN": [
+"4"
+]
+}
+},
+"alignments/json/43-005.alignment.json": {
+"mimeType": "text/json",
+"size": 127153,
+"scope": {
+"JHN": [
+"5"
+]
+}
+},
+"alignments/json/43-006.alignment.json": {
+"mimeType": "text/json",
+"size": 187638,
+"scope": {
+"JHN": [
+"6"
+]
+}
+},
+"alignments/json/43-007.alignment.json": {
+"mimeType": "text/json",
+"size": 135946,
+"scope": {
+"JHN": [
+"7"
+]
+}
+},
+"alignments/json/43-008.alignment.json": {
+"mimeType": "text/json",
+"size": 167522,
+"scope": {
+"JHN": [
+"8"
+]
+}
+},
+"alignments/json/43-009.alignment.json": {
+"mimeType": "text/json",
+"size": 118290,
+"scope": {
+"JHN": [
+"9"
+]
+}
+},
+"alignments/json/43-010.alignment.json": {
+"mimeType": "text/json",
+"size": 106653,
+"scope": {
+"JHN": [
+"10"
+]
+}
+},
+"alignments/json/43-011.alignment.json": {
+"mimeType": "text/json",
+"size": 158078,
+"scope": {
+"JHN": [
+"11"
+]
+}
+},
+"alignments/json/43-012.alignment.json": {
+"mimeType": "text/json",
+"size": 143739,
+"scope": {
+"JHN": [
+"12"
+]
+}
+},
+"alignments/json/43-013.alignment.json": {
+"mimeType": "text/json",
+"size": 109514,
+"scope": {
+"JHN": [
+"13"
+]
+}
+},
+"alignments/json/43-014.alignment.json": {
+"mimeType": "text/json",
+"size": 90038,
+"scope": {
+"JHN": [
+"14"
+]
+}
+},
+"alignments/json/43-015.alignment.json": {
+"mimeType": "text/json",
+"size": 77265,
+"scope": {
+"JHN": [
+"15"
+]
+}
+},
+"alignments/json/43-016.alignment.json": {
+"mimeType": "text/json",
+"size": 94681,
+"scope": {
+"JHN": [
+"16"
+]
+}
+},
+"alignments/json/43-017.alignment.json": {
+"mimeType": "text/json",
+"size": 78002,
+"scope": {
+"JHN": [
+"17"
+]
+}
+},
+"alignments/json/43-018.alignment.json": {
+"mimeType": "text/json",
+"size": 130745,
+"scope": {
+"JHN": [
+"18"
+]
+}
+},
+"alignments/json/43-019.alignment.json": {
+"mimeType": "text/json",
+"size": 136508,
+"scope": {
+"JHN": [
+"19"
+]
+}
+},
+"alignments/json/43-020.alignment.json": {
+"mimeType": "text/json",
+"size": 104617,
+"scope": {
+"JHN": [
+"20"
+]
+}
+},
+"alignments/json/43-021.alignment.json": {
+"mimeType": "text/json",
+"size": 99520,
+"scope": {
+"JHN": [
+"21"
+]
+}
+},
+"alignments/json/44-001.alignment.json": {
+"mimeType": "text/json",
+"size": 91488,
+"scope": {
+"ACT": [
+"1"
+]
+}
+},
+"alignments/json/44-002.alignment.json": {
+"mimeType": "text/json",
+"size": 143777,
+"scope": {
+"ACT": [
+"2"
+]
+}
+},
+"alignments/json/44-003.alignment.json": {
+"mimeType": "text/json",
+"size": 89094,
+"scope": {
+"ACT": [
+"3"
+]
+}
+},
+"alignments/json/44-004.alignment.json": {
+"mimeType": "text/json",
+"size": 118286,
+"scope": {
+"ACT": [
+"4"
+]
+}
+},
+"alignments/json/44-005.alignment.json": {
+"mimeType": "text/json",
+"size": 135471,
+"scope": {
+"ACT": [
+"5"
+]
+}
+},
+"alignments/json/44-006.alignment.json": {
+"mimeType": "text/json",
+"size": 56251,
+"scope": {
+"ACT": [
+"6"
+]
+}
+},
+"alignments/json/44-007.alignment.json": {
+"mimeType": "text/json",
+"size": 196187,
+"scope": {
+"ACT": [
+"7"
+]
+}
+},
+"alignments/json/44-008.alignment.json": {
+"mimeType": "text/json",
+"size": 122367,
+"scope": {
+"ACT": [
+"8"
+]
+}
+},
+"alignments/json/44-009.alignment.json": {
+"mimeType": "text/json",
+"size": 139790,
+"scope": {
+"ACT": [
+"9"
+]
+}
+},
+"alignments/json/44-010.alignment.json": {
+"mimeType": "text/json",
+"size": 149815,
+"scope": {
+"ACT": [
+"10"
+]
+}
+},
+"alignments/json/44-011.alignment.json": {
+"mimeType": "text/json",
+"size": 92890,
+"scope": {
+"ACT": [
+"11"
+]
+}
+},
+"alignments/json/44-012.alignment.json": {
+"mimeType": "text/json",
+"size": 91566,
+"scope": {
+"ACT": [
+"12"
+]
+}
+},
+"alignments/json/44-013.alignment.json": {
+"mimeType": "text/json",
+"size": 175390,
+"scope": {
+"ACT": [
+"13"
+]
+}
+},
+"alignments/json/44-014.alignment.json": {
+"mimeType": "text/json",
+"size": 93295,
+"scope": {
+"ACT": [
+"14"
+]
+}
+},
+"alignments/json/44-015.alignment.json": {
+"mimeType": "text/json",
+"size": 127691,
+"scope": {
+"ACT": [
+"15"
+]
+}
+},
+"alignments/json/44-016.alignment.json": {
+"mimeType": "text/json",
+"size": 135286,
+"scope": {
+"ACT": [
+"16"
+]
+}
+},
+"alignments/json/44-017.alignment.json": {
+"mimeType": "text/json",
+"size": 126541,
+"scope": {
+"ACT": [
+"17"
+]
+}
+},
+"alignments/json/44-018.alignment.json": {
+"mimeType": "text/json",
+"size": 99300,
+"scope": {
+"ACT": [
+"18"
+]
+}
+},
+"alignments/json/44-019.alignment.json": {
+"mimeType": "text/json",
+"size": 141595,
+"scope": {
+"ACT": [
+"19"
+]
+}
+},
+"alignments/json/44-020.alignment.json": {
+"mimeType": "text/json",
+"size": 127882,
+"scope": {
+"ACT": [
+"20"
+]
+}
+},
+"alignments/json/44-021.alignment.json": {
+"mimeType": "text/json",
+"size": 148005,
+"scope": {
+"ACT": [
+"21"
+]
+}
+},
+"alignments/json/44-022.alignment.json": {
+"mimeType": "text/json",
+"size": 100330,
+"scope": {
+"ACT": [
+"22"
+]
+}
+},
+"alignments/json/44-023.alignment.json": {
+"mimeType": "text/json",
+"size": 123540,
+"scope": {
+"ACT": [
+"23"
+]
+}
+},
+"alignments/json/44-024.alignment.json": {
+"mimeType": "text/json",
+"size": 89365,
+"scope": {
+"ACT": [
+"24"
+]
+}
+},
+"alignments/json/44-025.alignment.json": {
+"mimeType": "text/json",
+"size": 96645,
+"scope": {
+"ACT": [
+"25"
+]
+}
+},
+"alignments/json/44-026.alignment.json": {
+"mimeType": "text/json",
+"size": 106775,
+"scope": {
+"ACT": [
+"26"
+]
+}
+},
+"alignments/json/44-027.alignment.json": {
+"mimeType": "text/json",
+"size": 148047,
+"scope": {
+"ACT": [
+"27"
+]
+}
+},
+"alignments/json/44-028.alignment.json": {
+"mimeType": "text/json",
+"size": 114394,
+"scope": {
+"ACT": [
+"28"
+]
+}
+},
+"alignments/json/45-001.alignment.json": {
+"mimeType": "text/json",
+"size": 104331,
+"scope": {
+"ROM": [
+"1"
+]
+}
+},
+"alignments/json/45-002.alignment.json": {
+"mimeType": "text/json",
+"size": 93537,
+"scope": {
+"ROM": [
+"2"
+]
+}
+},
+"alignments/json/45-003.alignment.json": {
+"mimeType": "text/json",
+"size": 81957,
+"scope": {
+"ROM": [
+"3"
+]
+}
+},
+"alignments/json/45-004.alignment.json": {
+"mimeType": "text/json",
+"size": 80284,
+"scope": {
+"ROM": [
+"4"
+]
+}
+},
+"alignments/json/45-005.alignment.json": {
+"mimeType": "text/json",
+"size": 84204,
+"scope": {
+"ROM": [
+"5"
+]
+}
+},
+"alignments/json/45-006.alignment.json": {
+"mimeType": "text/json",
+"size": 74621,
+"scope": {
+"ROM": [
+"6"
+]
+}
+},
+"alignments/json/45-007.alignment.json": {
+"mimeType": "text/json",
+"size": 88887,
+"scope": {
+"ROM": [
+"7"
+]
+}
+},
+"alignments/json/45-008.alignment.json": {
+"mimeType": "text/json",
+"size": 127827,
+"scope": {
+"ROM": [
+"8"
+]
+}
+},
+"alignments/json/45-009.alignment.json": {
+"mimeType": "text/json",
+"size": 101738,
+"scope": {
+"ROM": [
+"9"
+]
+}
+},
+"alignments/json/45-010.alignment.json": {
+"mimeType": "text/json",
+"size": 74289,
+"scope": {
+"ROM": [
+"10"
+]
+}
+},
+"alignments/json/45-011.alignment.json": {
+"mimeType": "text/json",
+"size": 116236,
+"scope": {
+"ROM": [
+"11"
+]
+}
+},
+"alignments/json/45-012.alignment.json": {
+"mimeType": "text/json",
+"size": 70566,
+"scope": {
+"ROM": [
+"12"
+]
+}
+},
+"alignments/json/45-013.alignment.json": {
+"mimeType": "text/json",
+"size": 55618,
+"scope": {
+"ROM": [
+"13"
+]
+}
+},
+"alignments/json/45-014.alignment.json": {
+"mimeType": "text/json",
+"size": 81125,
+"scope": {
+"ROM": [
+"14"
+]
+}
+},
+"alignments/json/45-015.alignment.json": {
+"mimeType": "text/json",
+"size": 107778,
+"scope": {
+"ROM": [
+"15"
+]
+}
+},
+"alignments/json/45-016.alignment.json": {
+"mimeType": "text/json",
+"size": 71241,
+"scope": {
+"ROM": [
+"16"
+]
+}
+},
+"alignments/json/46-001.alignment.json": {
+"mimeType": "text/json",
+"size": 95385,
+"scope": {
+"1CO": [
+"1"
+]
+}
+},
+"alignments/json/46-002.alignment.json": {
+"mimeType": "text/json",
+"size": 55850,
+"scope": {
+"1CO": [
+"2"
+]
+}
+},
+"alignments/json/46-003.alignment.json": {
+"mimeType": "text/json",
+"size": 64647,
+"scope": {
+"1CO": [
+"3"
+]
+}
+},
+"alignments/json/46-004.alignment.json": {
+"mimeType": "text/json",
+"size": 68861,
+"scope": {
+"1CO": [
+"4"
+]
+}
+},
+"alignments/json/46-005.alignment.json": {
+"mimeType": "text/json",
+"size": 44579,
+"scope": {
+"1CO": [
+"5"
+]
+}
+},
+"alignments/json/46-006.alignment.json": {
+"mimeType": "text/json",
+"size": 66477,
+"scope": {
+"1CO": [
+"6"
+]
+}
+},
+"alignments/json/46-007.alignment.json": {
+"mimeType": "text/json",
+"size": 134312,
+"scope": {
+"1CO": [
+"7"
+]
+}
+},
+"alignments/json/46-008.alignment.json": {
+"mimeType": "text/json",
+"size": 45267,
+"scope": {
+"1CO": [
+"8"
+]
+}
+},
+"alignments/json/46-009.alignment.json": {
+"mimeType": "text/json",
+"size": 92157,
+"scope": {
+"1CO": [
+"9"
+]
+}
+},
+"alignments/json/46-010.alignment.json": {
+"mimeType": "text/json",
+"size": 98108,
+"scope": {
+"1CO": [
+"10"
+]
+}
+},
+"alignments/json/46-011.alignment.json": {
+"mimeType": "text/json",
+"size": 99487,
+"scope": {
+"1CO": [
+"11"
+]
+}
+},
+"alignments/json/46-012.alignment.json": {
+"mimeType": "text/json",
+"size": 88066,
+"scope": {
+"1CO": [
+"12"
+]
+}
+},
+"alignments/json/46-013.alignment.json": {
+"mimeType": "text/json",
+"size": 40012,
+"scope": {
+"1CO": [
+"13"
+]
+}
+},
+"alignments/json/46-014.alignment.json": {
+"mimeType": "text/json",
+"size": 129624,
+"scope": {
+"1CO": [
+"14"
+]
+}
+},
+"alignments/json/46-015.alignment.json": {
+"mimeType": "text/json",
+"size": 167422,
+"scope": {
+"1CO": [
+"15"
+]
+}
+},
+"alignments/json/46-016.alignment.json": {
+"mimeType": "text/json",
+"size": 62431,
+"scope": {
+"1CO": [
+"16"
+]
+}
+},
+"alignments/json/47-001.alignment.json": {
+"mimeType": "text/json",
+"size": 90909,
+"scope": {
+"2CO": [
+"1"
+]
+}
+},
+"alignments/json/47-002.alignment.json": {
+"mimeType": "text/json",
+"size": 53248,
+"scope": {
+"2CO": [
+"2"
+]
+}
+},
+"alignments/json/47-003.alignment.json": {
+"mimeType": "text/json",
+"size": 61335,
+"scope": {
+"2CO": [
+"3"
+]
+}
+},
+"alignments/json/47-004.alignment.json": {
+"mimeType": "text/json",
+"size": 65705,
+"scope": {
+"2CO": [
+"4"
+]
+}
+},
+"alignments/json/47-005.alignment.json": {
+"mimeType": "text/json",
+"size": 73803,
+"scope": {
+"2CO": [
+"5"
+]
+}
+},
+"alignments/json/47-006.alignment.json": {
+"mimeType": "text/json",
+"size": 55637,
+"scope": {
+"2CO": [
+"6"
+]
+}
+},
+"alignments/json/47-007.alignment.json": {
+"mimeType": "text/json",
+"size": 65126,
+"scope": {
+"2CO": [
+"7"
+]
+}
+},
+"alignments/json/47-008.alignment.json": {
+"mimeType": "text/json",
+"size": 80523,
+"scope": {
+"2CO": [
+"8"
+]
+}
+},
+"alignments/json/47-009.alignment.json": {
+"mimeType": "text/json",
+"size": 60105,
+"scope": {
+"2CO": [
+"9"
+]
+}
+},
+"alignments/json/47-010.alignment.json": {
+"mimeType": "text/json",
+"size": 56506,
+"scope": {
+"2CO": [
+"10"
+]
+}
+},
+"alignments/json/47-011.alignment.json": {
+"mimeType": "text/json",
+"size": 98803,
+"scope": {
+"2CO": [
+"11"
+]
+}
+},
+"alignments/json/47-012.alignment.json": {
+"mimeType": "text/json",
+"size": 77111,
+"scope": {
+"2CO": [
+"12"
+]
+}
+},
+"alignments/json/47-013.alignment.json": {
+"mimeType": "text/json",
+"size": 43817,
+"scope": {
+"2CO": [
+"13"
+]
+}
+},
+"alignments/json/48-001.alignment.json": {
+"mimeType": "text/json",
+"size": 66597,
+"scope": {
+"GAL": [
+"1"
+]
+}
+},
+"alignments/json/48-002.alignment.json": {
+"mimeType": "text/json",
+"size": 78574,
+"scope": {
+"GAL": [
+"2"
+]
+}
+},
+"alignments/json/48-003.alignment.json": {
+"mimeType": "text/json",
+"size": 87418,
+"scope": {
+"GAL": [
+"3"
+]
+}
+},
+"alignments/json/48-004.alignment.json": {
+"mimeType": "text/json",
+"size": 89305,
+"scope": {
+"GAL": [
+"4"
+]
+}
+},
+"alignments/json/48-005.alignment.json": {
+"mimeType": "text/json",
+"size": 67535,
+"scope": {
+"GAL": [
+"5"
+]
+}
+},
+"alignments/json/48-006.alignment.json": {
+"mimeType": "text/json",
+"size": 53316,
+"scope": {
+"GAL": [
+"6"
+]
+}
+},
+"alignments/json/49-001.alignment.json": {
+"mimeType": "text/json",
+"size": 72679,
+"scope": {
+"EPH": [
+"1"
+]
+}
+},
+"alignments/json/49-002.alignment.json": {
+"mimeType": "text/json",
+"size": 71999,
+"scope": {
+"EPH": [
+"2"
+]
+}
+},
+"alignments/json/49-003.alignment.json": {
+"mimeType": "text/json",
+"size": 63615,
+"scope": {
+"EPH": [
+"3"
+]
+}
+},
+"alignments/json/49-004.alignment.json": {
+"mimeType": "text/json",
+"size": 96121,
+"scope": {
+"EPH": [
+"4"
+]
+}
+},
+"alignments/json/49-005.alignment.json": {
+"mimeType": "text/json",
+"size": 82335,
+"scope": {
+"EPH": [
+"5"
+]
+}
+},
+"alignments/json/49-006.alignment.json": {
+"mimeType": "text/json",
+"size": 69359,
+"scope": {
+"EPH": [
+"6"
+]
+}
+},
+"alignments/json/50-001.alignment.json": {
+"mimeType": "text/json",
+"size": 96348,
+"scope": {
+"PHP": [
+"1"
+]
+}
+},
+"alignments/json/50-002.alignment.json": {
+"mimeType": "text/json",
+"size": 81142,
+"scope": {
+"PHP": [
+"2"
+]
+}
+},
+"alignments/json/50-003.alignment.json": {
+"mimeType": "text/json",
+"size": 73217,
+"scope": {
+"PHP": [
+"3"
+]
+}
+},
+"alignments/json/50-004.alignment.json": {
+"mimeType": "text/json",
+"size": 66846,
+"scope": {
+"PHP": [
+"4"
+]
+}
+},
+"alignments/json/51-001.alignment.json": {
+"mimeType": "text/json",
+"size": 101120,
+"scope": {
+"COL": [
+"1"
+]
+}
+},
+"alignments/json/51-002.alignment.json": {
+"mimeType": "text/json",
+"size": 79354,
+"scope": {
+"COL": [
+"2"
+]
+}
+},
+"alignments/json/51-003.alignment.json": {
+"mimeType": "text/json",
+"size": 68322,
+"scope": {
+"COL": [
+"3"
+]
+}
+},
+"alignments/json/51-004.alignment.json": {
+"mimeType": "text/json",
+"size": 54464,
+"scope": {
+"COL": [
+"4"
+]
+}
+},
+"alignments/json/52-001.alignment.json": {
+"mimeType": "text/json",
+"size": 39966,
+"scope": {
+"1TH": [
+"1"
+]
+}
+},
+"alignments/json/52-002.alignment.json": {
+"mimeType": "text/json",
+"size": 73683,
+"scope": {
+"1TH": [
+"2"
+]
+}
+},
+"alignments/json/52-003.alignment.json": {
+"mimeType": "text/json",
+"size": 47208,
+"scope": {
+"1TH": [
+"3"
+]
+}
+},
+"alignments/json/52-004.alignment.json": {
+"mimeType": "text/json",
+"size": 59100,
+"scope": {
+"1TH": [
+"4"
+]
+}
+},
+"alignments/json/52-005.alignment.json": {
+"mimeType": "text/json",
+"size": 63926,
+"scope": {
+"1TH": [
+"5"
+]
+}
+},
+"alignments/json/53-001.alignment.json": {
+"mimeType": "text/json",
+"size": 44734,
+"scope": {
+"2TH": [
+"1"
+]
+}
+},
+"alignments/json/53-002.alignment.json": {
+"mimeType": "text/json",
+"size": 58676,
+"scope": {
+"2TH": [
+"2"
+]
+}
+},
+"alignments/json/53-003.alignment.json": {
+"mimeType": "text/json",
+"size": 56023,
+"scope": {
+"2TH": [
+"3"
+]
+}
+},
+"alignments/json/54-001.alignment.json": {
+"mimeType": "text/json",
+"size": 67747,
+"scope": {
+"1TI": [
+"1"
+]
+}
+},
+"alignments/json/54-002.alignment.json": {
+"mimeType": "text/json",
+"size": 42681,
+"scope": {
+"1TI": [
+"2"
+]
+}
+},
+"alignments/json/54-003.alignment.json": {
+"mimeType": "text/json",
+"size": 46540,
+"scope": {
+"1TI": [
+"3"
+]
+}
+},
+"alignments/json/54-004.alignment.json": {
+"mimeType": "text/json",
+"size": 45809,
+"scope": {
+"1TI": [
+"4"
+]
+}
+},
+"alignments/json/54-005.alignment.json": {
+"mimeType": "text/json",
+"size": 72873,
+"scope": {
+"1TI": [
+"5"
+]
+}
+},
+"alignments/json/54-006.alignment.json": {
+"mimeType": "text/json",
+"size": 71574,
+"scope": {
+"1TI": [
+"6"
+]
+}
+},
+"alignments/json/55-001.alignment.json": {
+"mimeType": "text/json",
+"size": 61046,
+"scope": {
+"2TI": [
+"1"
+]
+}
+},
+"alignments/json/55-002.alignment.json": {
+"mimeType": "text/json",
+"size": 76263,
+"scope": {
+"2TI": [
+"2"
+]
+}
+},
+"alignments/json/55-003.alignment.json": {
+"mimeType": "text/json",
+"size": 49322,
+"scope": {
+"2TI": [
+"3"
+]
+}
+},
+"alignments/json/55-004.alignment.json": {
+"mimeType": "text/json",
+"size": 62275,
+"scope": {
+"2TI": [
+"4"
+]
+}
+},
+"alignments/json/56-001.alignment.json": {
+"mimeType": "text/json",
+"size": 57126,
+"scope": {
+"TIT": [
+"1"
+]
+}
+},
+"alignments/json/56-002.alignment.json": {
+"mimeType": "text/json",
+"size": 42713,
+"scope": {
+"TIT": [
+"2"
+]
+}
+},
+"alignments/json/56-003.alignment.json": {
+"mimeType": "text/json",
+"size": 46660,
+"scope": {
+"TIT": [
+"3"
+]
+}
+},
+"alignments/json/57-001.alignment.json": {
+"mimeType": "text/json",
+"size": 66224,
+"scope": {
+"PHM": [
+"1"
+]
+}
+},
+"alignments/json/58-001.alignment.json": {
+"mimeType": "text/json",
+"size": 46461,
+"scope": {
+"HEB": [
+"1"
+]
+}
+},
+"alignments/json/58-002.alignment.json": {
+"mimeType": "text/json",
+"size": 63588,
+"scope": {
+"HEB": [
+"2"
+]
+}
+},
+"alignments/json/58-003.alignment.json": {
+"mimeType": "text/json",
+"size": 56019,
+"scope": {
+"HEB": [
+"3"
+]
+}
+},
+"alignments/json/58-004.alignment.json": {
+"mimeType": "text/json",
+"size": 59673,
+"scope": {
+"HEB": [
+"4"
+]
+}
+},
+"alignments/json/58-005.alignment.json": {
+"mimeType": "text/json",
+"size": 41260,
+"scope": {
+"HEB": [
+"5"
+]
+}
+},
+"alignments/json/58-006.alignment.json": {
+"mimeType": "text/json",
+"size": 66577,
+"scope": {
+"HEB": [
+"6"
+]
+}
+},
+"alignments/json/58-007.alignment.json": {
+"mimeType": "text/json",
+"size": 85821,
+"scope": {
+"HEB": [
+"7"
+]
+}
+},
+"alignments/json/58-008.alignment.json": {
+"mimeType": "text/json",
+"size": 48152,
+"scope": {
+"HEB": [
+"8"
+]
+}
+},
+"alignments/json/58-009.alignment.json": {
+"mimeType": "text/json",
+"size": 110463,
+"scope": {
+"HEB": [
+"9"
+]
+}
+},
+"alignments/json/58-010.alignment.json": {
+"mimeType": "text/json",
+"size": 114423,
+"scope": {
+"HEB": [
+"10"
+]
+}
+},
+"alignments/json/58-011.alignment.json": {
+"mimeType": "text/json",
+"size": 143262,
+"scope": {
+"HEB": [
+"11"
+]
+}
+},
+"alignments/json/58-012.alignment.json": {
+"mimeType": "text/json",
+"size": 101522,
+"scope": {
+"HEB": [
+"12"
+]
+}
+},
+"alignments/json/58-013.alignment.json": {
+"mimeType": "text/json",
+"size": 78183,
+"scope": {
+"HEB": [
+"13"
+]
+}
+},
+"alignments/json/59-001.alignment.json": {
+"mimeType": "text/json",
+"size": 77665,
+"scope": {
+"JAS": [
+"1"
+]
+}
+},
+"alignments/json/59-002.alignment.json": {
+"mimeType": "text/json",
+"size": 80061,
+"scope": {
+"JAS": [
+"2"
+]
+}
+},
+"alignments/json/59-003.alignment.json": {
+"mimeType": "text/json",
+"size": 56707,
+"scope": {
+"JAS": [
+"3"
+]
+}
+},
+"alignments/json/59-004.alignment.json": {
+"mimeType": "text/json",
+"size": 56359,
+"scope": {
+"JAS": [
+"4"
+]
+}
+},
+"alignments/json/59-005.alignment.json": {
+"mimeType": "text/json",
+"size": 70214,
+"scope": {
+"JAS": [
+"5"
+]
+}
+},
+"alignments/json/60-001.alignment.json": {
+"mimeType": "text/json",
+"size": 86759,
+"scope": {
+"1PE": [
+"1"
+]
+}
+},
+"alignments/json/60-002.alignment.json": {
+"mimeType": "text/json",
+"size": 81393,
+"scope": {
+"1PE": [
+"2"
+]
+}
+},
+"alignments/json/60-003.alignment.json": {
+"mimeType": "text/json",
+"size": 79071,
+"scope": {
+"1PE": [
+"3"
+]
+}
+},
+"alignments/json/60-004.alignment.json": {
+"mimeType": "text/json",
+"size": 67670,
+"scope": {
+"1PE": [
+"4"
+]
+}
+},
+"alignments/json/60-005.alignment.json": {
+"mimeType": "text/json",
+"size": 43953,
+"scope": {
+"1PE": [
+"5"
+]
+}
+},
+"alignments/json/61-001.alignment.json": {
+"mimeType": "text/json",
+"size": 75173,
+"scope": {
+"2PE": [
+"1"
+]
+}
+},
+"alignments/json/61-002.alignment.json": {
+"mimeType": "text/json",
+"size": 87048,
+"scope": {
+"2PE": [
+"2"
+]
+}
+},
+"alignments/json/61-003.alignment.json": {
+"mimeType": "text/json",
+"size": 71783,
+"scope": {
+"2PE": [
+"3"
+]
+}
+},
+"alignments/json/62-001.alignment.json": {
+"mimeType": "text/json",
+"size": 37621,
+"scope": {
+"1JN": [
+"1"
+]
+}
+},
+"alignments/json/62-002.alignment.json": {
+"mimeType": "text/json",
+"size": 109091,
+"scope": {
+"1JN": [
+"2"
+]
+}
+},
+"alignments/json/62-003.alignment.json": {
+"mimeType": "text/json",
+"size": 81093,
+"scope": {
+"1JN": [
+"3"
+]
+}
+},
+"alignments/json/62-004.alignment.json": {
+"mimeType": "text/json",
+"size": 78150,
+"scope": {
+"1JN": [
+"4"
+]
+}
+},
+"alignments/json/62-005.alignment.json": {
+"mimeType": "text/json",
+"size": 71893,
+"scope": {
+"1JN": [
+"5"
+]
+}
+},
+"alignments/json/63-001.alignment.json": {
+"mimeType": "text/json",
+"size": 44607,
+"scope": {
+"2JN": [
+"1"
+]
+}
+},
+"alignments/json/64-001.alignment.json": {
+"mimeType": "text/json",
+"size": 48419,
+"scope": {
+"3JN": [
+"1"
+]
+}
+},
+"alignments/json/65-001.alignment.json": {
+"mimeType": "text/json",
+"size": 99043,
+"scope": {
+"JUD": [
+"1"
+]
+}
+},
+"alignments/json/66-001.alignment.json": {
+"mimeType": "text/json",
+"size": 81456,
+"scope": {
+"REV": [
+"1"
+]
+}
+},
+"alignments/json/66-002.alignment.json": {
+"mimeType": "text/json",
+"size": 112301,
+"scope": {
+"REV": [
+"2"
+]
+}
+},
+"alignments/json/66-003.alignment.json": {
+"mimeType": "text/json",
+"size": 92784,
+"scope": {
+"REV": [
+"3"
+]
+}
+},
+"alignments/json/66-004.alignment.json": {
+"mimeType": "text/json",
+"size": 51352,
+"scope": {
+"REV": [
+"4"
+]
+}
+},
+"alignments/json/66-005.alignment.json": {
+"mimeType": "text/json",
+"size": 62061,
+"scope": {
+"REV": [
+"5"
+]
+}
+},
+"alignments/json/66-006.alignment.json": {
+"mimeType": "text/json",
+"size": 69234,
+"scope": {
+"REV": [
+"6"
+]
+}
+},
+"alignments/json/66-007.alignment.json": {
+"mimeType": "text/json",
+"size": 70677,
+"scope": {
+"REV": [
+"7"
+]
+}
+},
+"alignments/json/66-008.alignment.json": {
+"mimeType": "text/json",
+"size": 54840,
+"scope": {
+"REV": [
+"8"
+]
+}
+},
+"alignments/json/66-009.alignment.json": {
+"mimeType": "text/json",
+"size": 78746,
+"scope": {
+"REV": [
+"9"
+]
+}
+},
+"alignments/json/66-010.alignment.json": {
+"mimeType": "text/json",
+"size": 47228,
+"scope": {
+"REV": [
+"10"
+]
+}
+},
+"alignments/json/66-011.alignment.json": {
+"mimeType": "text/json",
+"size": 84794,
+"scope": {
+"REV": [
+"11"
+]
+}
+},
+"alignments/json/66-012.alignment.json": {
+"mimeType": "text/json",
+"size": 73899,
+"scope": {
+"REV": [
+"12"
+]
+}
+},
+"alignments/json/66-013.alignment.json": {
+"mimeType": "text/json",
+"size": 77483,
+"scope": {
+"REV": [
+"13"
+]
+}
+},
+"alignments/json/66-014.alignment.json": {
+"mimeType": "text/json",
+"size": 94137,
+"scope": {
+"REV": [
+"14"
+]
+}
+},
+"alignments/json/66-015.alignment.json": {
+"mimeType": "text/json",
+"size": 38993,
+"scope": {
+"REV": [
+"15"
+]
+}
+},
+"alignments/json/66-016.alignment.json": {
+"mimeType": "text/json",
+"size": 82286,
+"scope": {
+"REV": [
+"16"
+]
+}
+},
+"alignments/json/66-017.alignment.json": {
+"mimeType": "text/json",
+"size": 84791,
+"scope": {
+"REV": [
+"17"
+]
+}
+},
+"alignments/json/66-018.alignment.json": {
+"mimeType": "text/json",
+"size": 108904,
+"scope": {
+"REV": [
+"18"
+]
+}
+},
+"alignments/json/66-019.alignment.json": {
+"mimeType": "text/json",
+"size": 92163,
+"scope": {
+"REV": [
+"19"
+]
+}
+},
+"alignments/json/66-020.alignment.json": {
+"mimeType": "text/json",
+"size": 62398,
+"scope": {
+"REV": [
+"20"
+]
+}
+},
+"alignments/json/66-021.alignment.json": {
+"mimeType": "text/json",
+"size": 108648,
+"scope": {
+"REV": [
+"21"
+]
+}
+},
+"alignments/json/66-022.alignment.json": {
+"mimeType": "text/json",
+"size": 78979,
+"scope": {
+"REV": [
+"22"
+]
+}
 }
 },
 "copyright": {
@@ -9227,5 +11567,18 @@
 ]
 }
 },
-"article_metadata": {}
+"article_metadata": {},
+"alignment_metadata": {
+"alignment_source": "https://github.com/Clear-Bible/alignments-ind/tree/main/exp/BOKKPB/LLM-REFINED",
+"alignment_ot_basis": "WLCM",
+"alignment_nt_basis": "SBLGNT",
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/"
+}
+}
+]
+}
 }
